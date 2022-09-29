@@ -11,7 +11,7 @@ function Cv() {
                 <title>HOHOKZ | CV</title>
             </Helmet>
             <div class="">
-                <div className="flex flex-row-reverse bg-gray-200 ">
+                <div className="flex flex-row-reverse bg-gray-200 h-screen ">
                     <img src="./images/photographer_picture.jpg" width="929px" />
                 </div>
                 <div className="mt-[-930px] w-[500px] h-screen bg-gray-500 
