@@ -1,16 +1,20 @@
 import './App.css';
-import Header from './componect/header';
-import Content from './componect/content';
+import Homepage from './componect/homepage';
+import Cv from './componect/cv';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+
 
 function App() {
   return (
-    <>
-
-    <Header/>
-    <Content/>
-
-    
-    </>
+    <div className ={App}>
+      <BrowserRouter>
+        <Routes>
+          <Route index element={<Homepage/>}/>
+          <Route path='/cv' element={<Cv/>}/>
+        </Routes>
+      </BrowserRouter>
+    </div>
   )
 }
 

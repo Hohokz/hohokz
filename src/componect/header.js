@@ -1,9 +1,14 @@
 import "./header.css"
+import { useNavigate } from "react-router-dom";
+
 
 function Header() {
+
+    const navigate = useNavigate();
+
     return (
         <>
-        <nav className="pt-[5px] fixed inset-x-0 top-0 flex-row ">
+        <nav className="pt-[5px] bg-white shadow-[0_-1px_28px_87px_-8px_rgba(0,0,0,0.36)] bg-opacity-80 fixed inset-x-0 top-0 flex-row ">
             <div className="flex">
                 <svg className="ml-[5px]" width="15" height="15" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <g clip-path="url(#clip0_17_61)">
@@ -29,12 +34,12 @@ function Header() {
                 </svg>
                 {/* // Instagram icon */}
             </div>
-            <div className="sticky inset-x-10 top-10">
-            <div className="z-50  m  relative flex justify-between ">
+            <div className="z-60 sticky top-0 ">
+            <div className="static flex justify-between ">
                 <div className="">
-                    <p className=" tracking-widest pt-[5px] mt-[80px] mb-[30px] flex text-md font-thin pl-5 text-gray-800">
+                    <p className=" tracking-widest pt-[5px] mt-[80px] mb-[30px] flex text-md font-thin pl-5 text-gray-500">
                         APIWAT SINGHARACH /
-                        <span className=" flex text-md text-orange-200">
+                        <span className=" flex text-md text-orange-500">
                             &nbsp; HOHOKZ
                         </span>
                     </p>
@@ -42,9 +47,11 @@ function Header() {
                 </div>
                 <div className="z-49  mt-[20px] ">
                     <div>
-                        <span className="p-[10px]  py-[72px] tracking-widest text-right text-gray-700 font-thin text-sm">EVERYDAY &nbsp;</span>
-                        <span className="p-[10px]  py-[72px] tracking-widest text-right text-gray-700 font-thin text-sm">WITH / HER &nbsp;</span>
-                        <span className="p-[10px]  py-[72px] tracking-widest text-right text-gray-700 font-thin text-sm">BIO</span>
+                        <span className="p-[10px]  py-[72px] tracking-widest text-right text-gray-500 font-thin text-sm">EVERYDAY &nbsp;</span>
+                        <span className="p-[10px]  py-[72px] tracking-widest text-right text-gray-500 font-thin text-sm">WITH / HER &nbsp;</span>
+                        <span className="p-[10px]  py-[72px] tracking-widest text-right text-gray-500 font-thin text-sm" onClick={()=>{
+                            navigate("/cv");
+                        }}>BIO</span>
                     </div>
                 </div>
             </div>
