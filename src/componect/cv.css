@@ -2,3 +2,10 @@
     font-family: myFirstFont;
     src: 'https://fonts.googleapis.com/css?family=Manrope'
 }
+
+hr{
+    display: flex;
+    opacity: 50%;
+    width: 50%;
+    margin-top: 50px;
+}
