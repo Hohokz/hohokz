@@ -11,14 +11,14 @@ function Cv() {
             shadow-[0_-1px_28px_87px_-8px_rgba(0,0,0,0.36)] bg-opacity-30 
             flex-col items-start justify-start  text-thin ">
                     <div className="" >
-                    <p className="pt-[250px] ml-[20px]  flex justify-center font-thin tracking-widest text-xs text-gray-800">
+                    <p className="pt-[250px]   flex justify-center font-thin tracking-widest text-xs text-gray-800">
                             Bron 1990 in ChiangMai 
                         </p>
-                        <p className="ml-[20px] mt-[20px] flex justify-center font-thin tracking-widest text-xs text-gray-800">
+                        <p className=" mt-[20px] flex justify-center font-thin tracking-widest text-xs text-gray-800">
                         Software Development in Training / Photographer / Flimmaker 
                         </p>
 
-                        <p className="ml-[20px] flex justify-center font-thin tracking-widest text-xs text-gray-800">
+                        <p className=" flex justify-center font-thin tracking-widest text-xs text-gray-800">
                             Live, life and Learn / Now ! I'm Software Development in Training
                         </p>
                         <p className="mt-[50px] mr-[45px] flex justify-center font-thin text-right tracking-widest text-lx text-black">
