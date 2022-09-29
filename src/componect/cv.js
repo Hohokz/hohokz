@@ -11,9 +11,11 @@ function Cv() {
                 <title>HOHOKZ | CV</title>
             </Helmet>
             <div class="">
-                <div className="mt-[-50px] inset-0 w-[500px] h-screen bg-gray-500 
-            shadow-[0_-1px_28px_87px_-8px_rgba(0,0,0,0.36)] bg-opacity-30 
-            flex-col items-start justify-start  text-thin ">
+                <div className="flex flex-row-reverse bg-gray-200 ">
+                    <img src="./images/photographer_picture.jpg" width="929px" />
+                </div>
+                <div className="mt-[-930px] w-[500px] h-screen bg-gray-500 
+                                shadow-[0_-1px_28px_87px_-8px_rgba(0,0,0,0.36)] bg-opacity-30">
                     <div className="" >
                         <p className="pt-[250px]   flex justify-center font-thin tracking-widest text-xs text-gray-800">
                             Bron 1990 in ChiangMai
@@ -119,13 +121,10 @@ function Cv() {
                             <span className="pl-[5px] tracking-widest text-xs text-gray-600">hohokz@hotmail.com </span>
                         </div>
                     </div>
-
-
                 </div>
-                <   div className="flex flex-row-reverse mt-[-900px]">
-                    <img src="./images/photographer_picture.jpg" width="929px" />
-                </div>
+
             </div>
+
 
 
         </>
