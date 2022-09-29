@@ -19,7 +19,7 @@ function Cv() {
                             Bron 1990 in ChiangMai 
                         </p>
                         <p className="ml-[20px] font-thin tracking-widest text-xs text-gray-800">
-                            Live and Learn in ChiangMai / Now ! I'm Software Development in Training
+                            Live, life and Learn in ChiangMai / Now ! I'm Software Development in Training
                         </p>
                         <p className="mt-[50px] mr-[45px] flex justify-center font-thin text-right tracking-widest text-lx text-black">
                             Educate
