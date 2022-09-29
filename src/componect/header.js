@@ -11,7 +11,7 @@ function Header() {
         const [ isSmall, setIsSmall] = useState(false);
         const changeThatSize = () => {
 
-            if (window.scrollY > 30) {
+            if (window.scrollY >= 10) {
                 setIsSmall(true);
             } else {
                 setIsSmall(false);
@@ -74,8 +74,8 @@ function Header() {
                     <div className="static flex justify-between ">
                         <div className="">
                             <p className="ml-[50px] mt-[10px] font-thin text-4xl cursor-pointer " onClick={() => navigate('/')}>
-                                APIWAT SINGHARACH /
-                                <span className="text-orange-600 font-">
+                                APIWAT SINGHARACH&nbsp; /
+                                <span className="text-orange-600 ">
                                     &nbsp; HOHOKZ
                                 </span>
                             </p>
