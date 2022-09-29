@@ -1,11 +1,15 @@
 import "./cv.css";
 import Header from "./header";
+import { Helmet } from 'react-helmet';
 
 function Cv() {
 
     return (
         <>
             <Header />
+            <Helmet>
+                <title>HOHOKZ | CV</title>
+            </Helmet>
             <div class="">
                 <div className="mt-[-50px] inset-0 w-[500px] h-screen bg-gray-500 
             shadow-[0_-1px_28px_87px_-8px_rgba(0,0,0,0.36)] bg-opacity-30 

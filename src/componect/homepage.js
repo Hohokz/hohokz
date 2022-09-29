@@ -1,12 +1,15 @@
 import Header from './header';
 import Content from './content';
+import { Helmet } from 'react-helmet';
 
 function Homepage() {
     return (
         <>
-            <Header/>
-            <Content/>
-
+            <Helmet>
+                <title>HOHOKZ </title>
+            </Helmet>
+            <Header />
+            <Content />
         </>
     )
 }
