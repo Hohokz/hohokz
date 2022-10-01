@@ -84,6 +84,7 @@ function Header() {
                         <div className="mt-[40px] mr-[20px] ">
                             <div>
                                 <span className="p-[20px] cursor-pointer hover:text-orange-600">EVERYDAY &nbsp;</span>
+                                <span className="p-[20px] cursor-pointer hover:text-orange-600">PROJECT &nbsp;</span>
                                 <span className="p-[20px] cursor-pointer hover:text-orange-600">WITH / HER &nbsp;</span>
                                 <span className="p-[20px] cursor-pointer hover:text-orange-600 " onClick={() => navigate(`/cv`)}>BIO</span>
                             </div>
