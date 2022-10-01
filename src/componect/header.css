@@ -4,13 +4,13 @@
 }
 
 .menu-bar {
-    transition: 0.3s ease-in-out;
+    transition: 0.2s ease-in-out;
 
     position: sticky;
     top: 0;
     z-index: 50;
     margin: 0 auto;
-
+    
     height: 200px;
     width: 100%;
 
@@ -18,7 +18,7 @@
 }
 
 .mini-bar{
-    transition: 0.3s ease-in-out;
+    transition: 0.2s ease-in-out;
 
     position: sticky;
     top: 0;
@@ -28,7 +28,7 @@
     height: 100px;
     width: 100%;
 
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgba(255, 255, 255, 0.8);
 }
 
 

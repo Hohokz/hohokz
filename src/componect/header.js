@@ -11,7 +11,7 @@ function Header() {
         const [ isSmall, setIsSmall] = useState(false);
         const changeThatSize = () => {
 
-            if (window.scrollY >= 10) {
+            if (window.scrollY >= 200) {
                 setIsSmall(true);
             } else {
                 setIsSmall(false);
