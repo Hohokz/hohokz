@@ -10,11 +10,11 @@ function Cv() {
             <Helmet>
                 <title>HOHOKZ | CV</title>
             </Helmet>
-            <div class="">
-                <div className="flex flex-row-reverse bg-gray-200 max-h-fit ">
-                    <img src="./images/photographer_picture.jpg" width="900px" />
+            <div class="flex justify-center">
+                <div className="flex bg-gray-200 max-h-fit ">
+                    <img src="./images/photographer_picture.jpg" width="1095px" />
                 </div>
-                <div className="mt-[-900px] w-[600px] max-h-fit bg-gray-500 
+                <div className="pt-[30px] w-[600px] max-h-fit bg-gray-500 
                                 shadow-[0_-1px_28px_87px_-8px_rgba(0,0,0,0.36)] bg-opacity-30">
                     <div className="" >
                         <p className="pt-[20px] flex justify-center font-thin tracking-widest text-xs text-gray-800">
@@ -27,21 +27,21 @@ function Cv() {
                         <p className=" flex justify-center font-thin tracking-widest text-xs text-gray-800">
                             Live, life and Learn / Now ! I'm Software Development in Training
                         </p>
-                        <p className="mt-[50px] mr-[45px] flex justify-center font-thin tracking-widest text-lx text-black">
+                        <p className="mt-[50px]  flex justify-center font-thin tracking-widest text-lx text-black">
                             Educate
                         </p>
-                        <p className="px-[50px] content-center flex-wrap-reverse flex flex-row  justify-between p-[20px] font-thin  tracking-widest text-xs text-gray-800">
+                        <p className="flex flex-row  justify-between px-[50px] p-[20px] font-thin  tracking-widest text-xs text-gray-800">
                             2011
                             <span className=" font-thin tracking-widest text-xs text-gray-600">
                                 Information Science ChiangMai Rajabhat University
                             </span>
                         </p>
 
-                        <p className="mb-[20px] px-[50px] flex justify-center font-thin tracking-widest text-lx text-black">
+                        <p className=" mb-[20px] px-[50px] flex justify-center font-thin tracking-widest text-lx text-black">
                             Experience
                         </p>
                         <div className="">
-                            <p className="px-[30px] content-center flex-wrap-reverse flex flex-row justify-between font-thin tracking-widest text-xs text-gray-800">
+                            <p className="px-[50px] justify-between flex flex-row font-thin tracking-widest text-xs text-gray-800">
                                 2011-2015
                                 <span className=" font-thin tracking-widest text-xs text-gray-600">
                                     FreeLance Photographer / Flimmaker
@@ -49,7 +49,7 @@ function Cv() {
                             </p>
                         </div>
                         <div className="">
-                            <p className="px-[30px] content-centerflex-wrap-reverse flex flex-row  justify-between font-thin tracking-widest text-xs text-gray-800">
+                            <p className=" px-[50px] flex justify-between flex-row font-thin tracking-widest text-xs text-gray-800">
                                 2016-2017
                                 <span className=" font-thin tracking-widest text-xs text-gray-600">
                                     ChiangMai Citylife Magazine Photographer
@@ -57,7 +57,7 @@ function Cv() {
                             </p>
                         </div>
                         <div className="">
-                            <p className="px-[30px] content-centerflex-wrap-reverse flex flex-row justify-between font-thin tracking-widest text-xs text-gray-800">
+                            <p className="px-[50px] flex justify-between flex-row font-thin tracking-widest text-xs text-gray-800">
                                 2018-2019
                                 <span className=" font-thin  tracking-widest text-xs text-gray-600">
                                     Head ChiangMai Citylife Magazine Photographer
@@ -65,11 +65,11 @@ function Cv() {
                             </p>
                         </div>
                         </div>
-                        <p className="mb-[20px] mt-[50px] mr-[45px] flex justify-center font-thin tracking-widest text-lx text-black">
+                        <p className="mb-[20px] mt-[30px] flex justify-center font-thin tracking-widest text-lx text-black">
                             Exhibition
                         </p>
                         <div className="">
-                            <p className="px-[30px] content-center flex-wrap-reverse flex flex-row justify-between font-thin  tracking-widest text-xs text-gray-800">
+                            <p className="px-[50px] flex flex-row justify-between font-thin  tracking-widest text-xs text-gray-800">
                                 2016
                                 <span className=" font-thin  tracking-widest text-xs text-gray-600">
                                     Awkwardly Rangefinder at Galleries Night Chiang Mai
@@ -77,7 +77,7 @@ function Cv() {
                             </p>
                         </div>
                         <div className="content-center">
-                            <p className="px-[30px] content-center flex-wrap-reverse flex flex-row  justify-between font-thin tracking-widest text-xs text-gray-800">
+                            <p className="px-[50px] flex flex-row justify-between font-thin tracking-widest text-xs text-gray-800">
                                 2018
                                 <span className=" font-thin text-left tracking-widest text-xs text-gray-600">
                                     belive(fe) at The Box Hotel ChiangMai
