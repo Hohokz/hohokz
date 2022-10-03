@@ -71,21 +71,21 @@ function Header() {
 
                 </div>
                 <div className="">
-                    <div className="static flex justify-between ">
+                    <div className="static flex justify-between sm:flex-col  ">
                         <div className="">
-                            <p className="ml-[50px] mt-[30px] tracking-widest font-thin text-4xl cursor-pointer hover:text-gray-400" onClick={() => navigate('/')}>
-                                APIWAT SINGHARACH&nbsp; /
-                                <span className=" tracking-widest text-orange-600 hover:text-white ">
-                                    &nbsp; HOHOKZ
+                            <p className="ml-[50px] mt-[30px] tracking-widest font-thin text-4xl cursor-pointer hover:text-gray-400 xl:ml-[10px] xl:mt-[3px] xl:text-lg" onClick={() => navigate('/')}>
+                                APIWAT SINGHARACH /
+                                <span className=" tracking-widest text-orange-600 hover:text-white xl:ml-[10px] xl:mt-[10px] xl:text-lg">
+                                &ensp; HOHOKZ
                                 </span>
                             </p>
 
                         </div>
-                        <div className="mt-[40px] mr-[20px] ">
+                        <div className="mt-[40px] mr-[20px]  sm:mt-[5px] sm:ml-[10px]">
                             <div>
-                                <span className="p-[20px] tracking-widest cursor-pointer hover:text-orange-600" onClick={() => navigate(`/everyday`)}>EVERYDAY &nbsp;</span>
-                                <span className="p-[20px] tracking-widest cursor-pointer hover:text-orange-600" onClick={() => navigate(`/withher`)}>WITH / HER &nbsp;</span>
-                                <span className="p-[20px] tracking-widest cursor-pointer hover:text-orange-600 " onClick={() => navigate(`/cv`)}>BIO</span>
+                                <span className="tracking-widest cursor-pointer hover:text-orange-600 sm:tracking-tight sm:text-sm" onClick={() => navigate(`/everyday`)}>EVERYDAY &nbsp;</span>
+                                <span className="tracking-widest cursor-pointer hover:text-orange-600 sm:tracking-tight sm:text-sm" onClick={() => navigate(`/withher`)}>WITH / HER &nbsp;</span>
+                                <span className="tracking-widest cursor-pointer hover:text-orange-600 sm:tracking-tight sm:text-sm " onClick={() => navigate(`/cv`)}>BIO</span>
                             </div>
                         </div>
                     </div>

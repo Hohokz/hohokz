@@ -1,7 +1,6 @@
 import "./everyday.css"
 import Header from "./header";
 import { Helmet } from 'react-helmet';
-import Athing from "./athing";
 
 function Everyday() {
     return (
