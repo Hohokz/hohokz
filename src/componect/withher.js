@@ -9,7 +9,7 @@ function Withher() {
             <Helmet>
                 <title>HOHOKZ | My EVERYDAY</title>
             </Helmet>
-            <div className="pt-[50px] w-screen bg-gray-50">
+            <div className="pt-[50px] w-screen bg-gray-500">
                 <h2 className="p-[20px] flex justify-center text-lx tracking-widest ">private space</h2>
                 <div className=" flex flex-row justify-center ">
                     <img className="m-[5px]" src="./images/withher/-_1.jpg" width="960px" />
