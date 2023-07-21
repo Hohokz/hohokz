@@ -1,11 +1,9 @@
-<h1 align="center">👋 Sup!, it's me Apiwat Singharach</h1>
+![image](https://github.com/Hohokz/hohokz/assets/109801555/248c9400-cee5-4aed-86f1-ef2c1026232e)<h1 align="center">👋 Sup!, it's me Apiwat Singharach</h1>
 <h3 align="center">adventurer in software developer world!</h3>
 
 <p align="left"> <a href="https://twitter.com/apiwat__s" target="blank"><img src="https://img.shields.io/twitter/follow/apiwat__s?logo=twitter&style=for-the-badge" alt="apiwat__s" /></a> </p>
 
 - 🌱 I’m currently learning **typescript and spring boot**
-
-- 👨‍💻 my last projects are available at [https://get-that-job.herokuapp.com/](https://get-that-job.herokuapp.com/)
 
 - 👨‍💻 my profile project is here [https://hohokz.netlify.app/](https://hohokz.netlify.app/)
 
@@ -41,7 +39,17 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+     
+   <img src="https://allvectorlogo.com/img/2016/11/java-logo.png" alt="express" width="40" height="40"/> </a>
+   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+
+   <img src="https://www.4xtreme.com/wp-content/uploads/2019/10/spring-boot-logo.png" alt="express" width="40" height="40"/> </a>
+   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" alt="express" width="40" height="40"/> </a>
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -52,21 +60,12 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-   
-  
-   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-
-   
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-   
-   
-  
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
