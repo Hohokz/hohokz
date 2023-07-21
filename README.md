@@ -48,7 +48,7 @@
    <img src="https://www.4xtreme.com/wp-content/uploads/2019/10/spring-boot-logo.png" alt="express" width="40"/> </a>
   
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" alt="express" width="40" /> </a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" alt="express" width="40" /></a>
    
     
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
