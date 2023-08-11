@@ -41,12 +41,12 @@
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
    <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" alt="express" width="40" height="40"/> </a>
      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
-   <img src="https://allvectorlogo.com/img/2016/11/java-logo.png" alt="express" width="60"/> </a>
+   <img src="https://allvectorlogo.com/img/2016/11/java-logo.png" alt="express" width="80"/> </a>
    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-   <img src="https://www.4xtreme.com/wp-content/uploads/2019/10/spring-boot-logo.png" alt="express" width="80"/> </a>
+   <img src="https://www.4xtreme.com/wp-content/uploads/2019/10/spring-boot-logo.png" alt="express" width="90"/> </a>
   
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" alt="express" width="60" /></a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" alt="express" width="40" /></a>
    </p>
    
   <p>
